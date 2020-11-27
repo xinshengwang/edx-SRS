@@ -4,3 +4,5 @@
 
 下图绘制了一个典型的语音波形图，相应的语音内容为“speech recognition is cool stuff”.
 
+<div align=center><img src="https://github.com/xinshengwang/edx-SRS/blob/master/figures/m2i1.png" style="zoom:40%" /> </div>
+
